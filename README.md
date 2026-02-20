@@ -266,9 +266,7 @@ gesture_buffer = deque(maxlen=N)  # Increase N for more stability
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
-## Authors
-
-Created as part of the NVIDIA Jetson Nano Hackathon - Touchless HCI Challenge
+Created as part of the ARM Bharat AI-SoC Student Challenge - Touchless HCI Challenge
 
 ## Contributing
 
