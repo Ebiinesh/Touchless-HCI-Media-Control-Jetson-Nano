@@ -23,7 +23,7 @@ This project implements a touchless Human-Computer Interface (HCI) system using 
 - **Monitor** with HDMI/DP input
 - **Standard peripherals** (keyboard, mouse, power supply)
 
-images/jetson.jpeg
+<img src="images/jetson.jpeg" width="500" alt="Jetson Board">
 
 ## Software Requirements
 
