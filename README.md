@@ -23,6 +23,8 @@ This project implements a touchless Human-Computer Interface (HCI) system using 
 - **Monitor** with HDMI/DP input
 - **Standard peripherals** (keyboard, mouse, power supply)
 
+images/jetson.jpeg
+
 ## Software Requirements
 
 - **JetPack OS** with CUDA support
